@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">app2</string>
+    <string name="docString">This is App2. Receives Intent from A3 and Displays Toast Message</string>
+</resources>

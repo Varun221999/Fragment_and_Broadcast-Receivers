@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">app3</string>
+    <string name="launch">Launch A1 and A2</string>
+    <string name="Exit">Exit A3</string>
+    <string name="contentDesc">image</string>
+    <string-array name="Titles">
+        <item>The Mentalist</item>
+        <item>Breaking Bad</item>
+        <item>Suits</item>
+        <item>Dark</item>
+        <item>Mr.Robot</item>
+    </string-array>
+    <string-array name="Quotes">
+        <item>When you’re dead, you’re dead, and until then, there’s ice cream</item>
+        <item>If you don’t know who I am, then maybe your best course would be to tread lightly.</item>
+        <item>That’s the difference between you and me. You want to lose small, I want to win big.</item>
+        <item>The mistake in all of our thinking is that we each believe ourselves to be an independent entity. While in reality, we’re all just fractions of an infinite whole.</item>
+        <item>I do see the beauty in the rules, the invisible code of chaos hiding behind the menacing face of order.</item>
+    </string-array>
+    <string-array name="IMDB_URLs">
+        <item>https://www.imdb.com/title/tt1196946/</item>
+        <item>https://www.imdb.com/title/tt0903747/</item>
+        <item>https://www.imdb.com/title/tt1632701/</item>
+        <item>https://www.imdb.com/title/tt5753856/</item>
+        <item>https://www.imdb.com/title/tt4158110/</item>
+    </string-array>
+    <string-array name="Wiki_URLs">
+        <item>https://en.wikipedia.org/wiki/The_Mentalist</item>
+        <item>https://en.wikipedia.org/wiki/Breaking_Bad</item>
+        <item>https://en.wikipedia.org/wiki/Suits_(American_TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Dark_(TV_series)</item>
+        <item>https://en.wikipedia.org/wiki/Mr._Robot</item>
+    </string-array>
+
+</resources>

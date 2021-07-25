@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">app1</string>
+    <string name="docString">Welcome to App1.
+        When you click on the button below, you will send an ordered broadcast.
+    </string>
+    <string name="startIntent">Click Me!</string>
+
+</resources>
